@@ -2,19 +2,11 @@
 <html>
   <head>
     <title>Soorten Kaas</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="img/favicon.ico">
   </head>
   <body>
-    <header>
-      <h1>Alles over Kaas met Roos</h1>
-      <nav>
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="geschiedenis.html">Geschiedenis</a></li>
-          <li><a href="soorten.html">Soorten</a></li>
-          <li><a href="bereiding.html">Bereiding</a></li>
-        </ul>
-      </nav>
-    </header>
+    <?php require_once('header.php')?>
     
     <main>
       <h2>Soorten Kaas</h2>
@@ -27,8 +19,6 @@
       </ul>
     </main>
     
-    <footer>
-      <p>&copy; 2023 Alles over Kaas met Roos</p>
-    </footer>
+    <?php require_once('footer.php')?>
   </body>
 </html>

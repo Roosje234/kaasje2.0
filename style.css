@@ -10,3 +10,13 @@ footer{
 .kaasje h1:hover{
     color: yellow;
 }
+
+header ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+*{
+    background-color: black;
+    color: white;
+}

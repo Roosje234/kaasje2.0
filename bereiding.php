@@ -1,21 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
+  <link rel="stylesheet" href="style.css">
     <title>Bereiding van Kaas</title>
+    <link rel="icon" type="image/x-icon" href="img/favicon.ico">
   </head>
   <body>
-    <header>
-      <h1>Alles over Kaas met Roos</h1>
-      <nav>
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="geschiedenis.html">Geschiedenis</a></li>
-          <li><a href="soorten.html">Soorten</a></li>
-          <li><a href="bereiding.html">Bereiding</a></li>
-        </ul>
-      </nav>
-    </header>
-    
+    <?php require_once('header.php')?>
     <main>
       <h2>Bereiding van Kaas</h2>
       <p>De bereiding van kaas is een complex proces dat verschillende stappen omvat:</p>
@@ -26,4 +17,7 @@
         <li>De kaas wordt gezouten en gerijpt om de smaak te ontwikkelen</li>
       </ol>
     </main>
+    <?php require_once('footer.php')?>
+  </body>
+</html>
     

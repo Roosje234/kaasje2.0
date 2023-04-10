@@ -6,31 +6,19 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="style.css">
-    </head>
+        <link rel="icon" type="image/x-icon" href="img/favicon.ico">
+    </head>     
     <body>
-        <script>
-             alert("welkom bij kaasje!")
-         </script>
-    </body>
-    <body>
-        <script>
-            prompt("hi! wat is uw naam?","vul hier uw naam in")   
-        </script>
-    </body>
-                  
 
-    <body>
+    <?php require_once('header.php')?>
 
     <div class="kaasje">
         <h1>hoi dit is een kaasje</h1>
         <img src="img/kaasje.png" alt="">
-
     </div>
 
-    <footer>
-        <p>&copy; roos dekker</p>
-    </footer>
 
+    <?php require_once('footer.php')?>
 
     </body>
 </html>
