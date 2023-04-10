@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>kaasje</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+    </header>
+    
+    <main>
+      <h2>Welkom op de kaaswebsite voor al je kaas vragen</h2>
+      <p>Op deze website vind je alles wat je wilt weten over kaas, van de geschiedenis tot de verschillende soorten en de bereiding.</p>
+    </main>
+    
+    <footer>
+      <p>&copy; 2023 Alles over Kaas</p>
+    </footer>
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Alles over Kaas met Roos</title>
+  </head>
+  <body>
+    <header>
+      <h1>Alles over Kaas met Roos</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="geschiedenis.html">Geschiedenis</a></li>
+          <li><a href="soorten.html">Soorten</a></li>
+          <li><a href="bereiding.html">Bereiding</a></li>
+        </ul>
+      </n
+      

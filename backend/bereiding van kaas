@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bereiding van Kaas</title>
+  </head>
+  <body>
+    <header>
+      <h1>Alles over Kaas met Roos</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="geschiedenis.html">Geschiedenis</a></li>
+          <li><a href="soorten.html">Soorten</a></li>
+          <li><a href="bereiding.html">Bereiding</a></li>
+        </ul>
+      </nav>
+    </header>
+    
+    <main>
+      <h2>Bereiding van Kaas</h2>
+      <p>De bereiding van kaas is een complex proces dat verschillende stappen omvat:</p>
+      <ol>
+        <li>Melk wordt gestremd door toevoeging van stremsel</li>
+        <li>De wrongel wordt gescheiden van de wei</li>
+        <li>De wrongel wordt gekneed en geperst om overtollig vocht te verwijderen</li>
+        <li>De kaas wordt gezouten en gerijpt om de smaak te ontwikkelen</li>
+      </ol>
+    </main>
+    

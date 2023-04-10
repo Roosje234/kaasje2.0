@@ -1,0 +1,12 @@
+.kaasje{
+    text-align: center;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+}
+
+.kaasje h1:hover{
+    color: yellow;
+}
